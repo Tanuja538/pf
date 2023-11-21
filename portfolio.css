@@ -1,0 +1,47 @@
+body{
+    text-align:center;
+    background-color:azure;
+}
+header{
+    background-color: rgb(93, 97, 116);
+    color:black;
+    padding: 20px;
+
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    padding: 20px;
+    color:blanchedalmond;
+    font-size: 20px;
+    text-decoration: none;
+}
+#Home img{
+    height: 180px;
+    width:180px;
+    border-radius: 50%;
+    border:25px% dashed blue;
+}
+#Bio p{
+    margin-right:180px;
+    margin-left: 180px;
+}
+#PortFolio{
+    background-color: rgb(205, 214, 255);
+    padding: 20px;
+    
+}
+&diams{
+    color:blue;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+
+footer{
+    background-color: black;
+    color:azure;
+    padding: 30px;
+}
